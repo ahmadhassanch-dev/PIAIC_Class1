@@ -11,5 +11,12 @@ NO4:-
                  `npm i -g typescript`
      Then check it by running this => `tsc -v`                                 
 NO5:-
-     Then open your VScode and open your terminal by using CTRL + ``  and run
+     Then open your VScode and open your terminal by using CTRL + `  and run
+       'tsc --init' to a tsconfig file,Then run 'npm init' to creat a package.jason file.                                   
+NO6:-
+    Then create a file "FILE NAME.ts" then start coding in it.                             
+NO7:-
+    Now type "console.log("Hello World");" in your .ts file.                     
+NO8:-
+    
        
