@@ -9,7 +9,7 @@ NO3:-
 NO4:-
      Then install "TYPESCRIPT" from your command prompt by running this command.
                  `npm i -g typescript`
-     Then check it by running this => `tsc -v`
+     Then check it by running this => `tsc -v`                                 
 NO5:-
-     Then open your VScode and open your terminal by using CTRL + ` and run
-     `tsc --init`
+     Then open your VScode and open your terminal by using CTRL + ``  and run
+       
