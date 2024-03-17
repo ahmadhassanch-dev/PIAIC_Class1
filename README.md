@@ -5,7 +5,7 @@ NO1:-
 NO2:-
      Then check your installation from command prompt by running this command.                         `node -v`                
 NO3:-
-     Then  Download Visual Studio Code from https://code.visualstudio.com/download.
+     Then  Download Visual Studio Code from https://code.visualstudio.com/download.                         
 NO4:-
      Then install "TYPESCRIPT" from your command prompt by running this command.
                  `npm i -g typescript`
