@@ -3,7 +3,7 @@
 NO1:-
      First you have to install "NODE" from https://nodejs.org/en/download.                         
 NO2:-
-     Then check your installation from command prompt by running this command.
+     Then check your installation from command prompt by running this command.                            
                  `node -v`
 NO3:-
      Then  Download Visual Studio Code from https://code.visualstudio.com/download.
