@@ -27,7 +27,7 @@ NO4:-
      
 NO5:-
      Then open your VScode and open your terminal by using CTRL + `  and run
-       'tsc --init' to a tsconfig file,Then run 'npm init' to create a package.jason file. 
+       'tsc --init' to create a tsconfig file,Then run 'npm init' to create a package.jason file. 
 
        
 NO6:-
