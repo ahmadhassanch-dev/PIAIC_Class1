@@ -40,7 +40,7 @@ NO7:-
 
                          
 NO8:-
-   To see output just open your terminal and type `tsc`  to make or update yor .js file and after that run `node FILE NAME.js`
+   To see output just open your terminal and type `tsc`  to make or update your .js file and after that run `node FILE NAME.js`
 
 
    #HAPPY CODING
